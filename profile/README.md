@@ -8,21 +8,4 @@
 
 ---
 
-## 👨‍💻 Tech Stack
-### Languages
-* Kotlin
-* Dart
-### FrontEnd & Mobile & iOS
-* Flutter
-### BackEnd
-* Spring Boot
-### Database
-* Amazon RDS
-* MySql
-### Data
-* Kafka
-### DevOps
-* Github
-* Docker
-* Jenkins
-* Amazon EC2
+## 📝 [Tech Stack](https://github.com/Devyyyyy/.github/blob/main/profile/techstack.md)
