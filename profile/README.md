@@ -19,6 +19,8 @@
 ### Database
 * Amazon RDS
 * MySql
+### Data
+* Kafka
 ### DevOps
 * Github
 * Docker
