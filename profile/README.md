@@ -9,4 +9,3 @@
 ---
 
 ### 언어
-![](https://github.com/Devyyyyy/.github/blob/main/images/kotlin.png?raw=true) *Kotlin* ![](https://github.com/Devyyyyy/.github/blob/main/images/dart.png?raw=true) *Dart*
