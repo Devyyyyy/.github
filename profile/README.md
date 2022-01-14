@@ -8,6 +8,6 @@
 
 ---
 
-## 📝 [Tech Stack](https://github.com/Devyyyyy/.github/blob/main/profile/techstack.md)
+## 📝 [Tech Stack](https://github.com/Devyyyyy/.github/tree/main/profile/techstack)
 
 ---
