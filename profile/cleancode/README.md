@@ -1,3 +1,7 @@
+# 커밋하기전에 생각했나요?
+
+![](https://cdn.clien.net/web/api/file/F01/7502717/4a2d87de1951.jpg?w=780&h=30000)
+
 ### 코드 컨벤션을 지키면서 프로그래밍했는가?
 * hthttps://kotlinlang.org/docs/coding-conventions.html 
 * https://dart.dev/guides/language/effective-dart/style
