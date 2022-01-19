@@ -1,7 +1,7 @@
 ## 👨‍💻 Tech Stack
 ### Languages
 * Kotlin
-* Dart
+* Typescript
 ### FrontEnd
 * React
 ### BackEnd
