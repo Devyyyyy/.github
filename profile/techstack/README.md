@@ -2,8 +2,8 @@
 ### Languages
 * Kotlin
 * Dart
-### FrontEnd & Android & iOS
-* Flutter
+### FrontEnd
+* React
 ### BackEnd
 * Spring Boot
 ### Database
